@@ -24,6 +24,5 @@ The following (non standard python) Packages are required:
 - nltk
 
 ## Instructions
-- Create folders "data/articles" and "res"
 - Run scripts wikipedia_text_extract, then wikipedia_missed_extract
 - Run Notebook project.ipynb
