@@ -9,7 +9,8 @@ After assessing the different netrwork creation methods, we seek to recommend ne
 
 ## Requirements
 ### Data
-The root folder should contain a folder "data", which itself contains the SNAP Wikipedia dataset. ( https://snap.stanford.edu/data/wikispeedia.html )
+The root folder should contain a folder "data", which itself contains the SNAP Wikipedia dataset. <br>
+(https://snap.stanford.edu/data/wikispeedia.html)
 Before running the notebook, a folder "articles" should be created in the "data" folder. Then, the scripts should be run (first wikipedia_text_extract, then wikipedia_missed_extract) to fetch the article texts.
 ### Packages
 The following (non standard python) Packages are required:
@@ -25,4 +26,4 @@ The following (non standard python) Packages are required:
 ## Instructions
 - Create folders "data", "data/articles" and "res"
 - Run scripts wikipedia_text_extract, then wikipedia_missed_extract
-- Run Notebook.
+- Run Notebook project.ipynb
