@@ -5,7 +5,7 @@ Marc Glettig - Matthias Minder - Yves Rychener - Charles Trotin
 ## Description
 This code is for the project in the course Network Tour of Data Science at EPFL. 
 Using text similarity, we construct networks of Wikipedia articles and compare them to the Wikipedia Hyperlink Network. 
-After assessing the different netrwork creation methods, we seek to recommend new possible hyperlinks.
+After assessing the different netrwork creation methods, we seek to recommend new possible hyperlinks. For more detailed description refer to the annotated jupyter notebook and the project report.
 
 ## Requirements
 ### Data
@@ -24,6 +24,6 @@ The following (non standard python) Packages are required:
 - nltk
 
 ## Instructions
-- Create folders "data", "data/articles" and "res"
+- Create folders "data/articles" and "res"
 - Run scripts wikipedia_text_extract, then wikipedia_missed_extract
 - Run Notebook project.ipynb
